@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {2}{Bulk materials parametriazation}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{GaN}{3}{0}{1}
+\beamer@subsectionintoc {2}{2}{InN}{4}{0}{1}
+\beamer@subsectionintoc {2}{3}{AlN}{5}{0}{1}
+\beamer@sectionintoc {3}{Formation energy}{6}{0}{2}
+\beamer@sectionintoc {4}{NEB method}{7}{0}{3}
+\beamer@subsectionintoc {4}{1}{parametrs }{8}{0}{3}
+\beamer@sectionintoc {5}{Phonon calculation}{9}{0}{4}
+\beamer@sectionintoc {6}{Summarizing}{10}{0}{5}
